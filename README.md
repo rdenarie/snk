@@ -1,7 +1,7 @@
 ![https://raw.githubusercontent.com/rdenarie/rdenarie/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/rdenarie/rdenarie/output/github-contribution-grid-snake.gif)
 
 
-[![My github stats](![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdenarie&theme=default))][ghr]
+[![My github stats](![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdenarie&theme=default)][ghr]
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=rdenarie&row=1&theme=nord)][gpt]
 
