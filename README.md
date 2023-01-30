@@ -3,7 +3,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rdenarie&show_icons=true&theme=nord&include_all_commits=true)][ghr]
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rdenarie&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)][ghr]
+[![My github stats](![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdenarie&theme=default))][ghr]
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=rdenarie&row=1&theme=nord)][gpt]
 
