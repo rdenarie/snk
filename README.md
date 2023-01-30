@@ -7,7 +7,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rdenarie&theme=nord)][gss]
 
-[![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenarie&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
 
 
 [ghr]:https://github.com/anuraghazra/github-readme-stats
